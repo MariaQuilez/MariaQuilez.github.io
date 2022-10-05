@@ -1,0 +1,15 @@
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/showfolio"]
+	path = themes/showfolio
+	url = https://github.com/apvarun/showfolio-hugo-theme.git
+[submodule "themes/calligraphy"]
+	path = themes/calligraphy
+	url = https://github.com/pacollins/calligraphy.git
+[submodule "themes/roxo"]
+	path = themes/roxo
+	url = https://github.com/StaticMania/roxo-hugo.git
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
