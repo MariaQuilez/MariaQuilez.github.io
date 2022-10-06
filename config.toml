@@ -1,0 +1,40 @@
+
+baseURL = "http://example.org/"
+defaultContentLanguage = "en"
+languageCode = "en"
+
+title = "María Quílez"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    identifier = "Sobre mi"
+    url = "/sobremi/"
+    pre = ""
+    post = ""
+    name = "Sobre mi"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Curriculum"
+    name = "Curriculum"
+    url = "/curriculum/"
+    weight = 2
+
+    
+  [[menu.main]]
+    identifier = "Mis proyectos"
+    name = "Mis proyectos"
+    url = "/proyectos/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "¡Contáctame!"
+    name = "¡Contáctame!"
+    url = "/contacto/"
+    weight = 4
+    
