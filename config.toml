@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     identifier = "Sobre mi"
-    url = "/sobremi/"
+    url = "sobremi"
     pre = ""
     post = ""
     name = "Sobre mi"
