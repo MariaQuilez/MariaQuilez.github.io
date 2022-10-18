@@ -29,7 +29,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "Mis proyectos"
     name = "Mis proyectos"
-    url = "/proyectos/"
+    url = "/Mis proyectos/"
     weight = 3
     
   [[menu.main]]
