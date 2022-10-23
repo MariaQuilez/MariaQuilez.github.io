@@ -19,12 +19,6 @@ enableRobotsTXT = true
     name = "Sobre mi"
     weight = 1
 
-  [[menu.main]]
-    identifier = "Curriculum"
-    name = "Curriculum"
-    url = "/curriculum/"
-    weight = 2
-
     
   [[menu.main]]
     identifier = "Mis proyectos"
